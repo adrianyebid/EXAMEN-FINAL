@@ -7,10 +7,12 @@ En `python/examen_final_python.ipynb` está el notebook con:
 - Operaciones morfológicas (erosión, dilatación, apertura, cierre).
 - GIF con antes y después (guardado en `python/gifs/resultado_filtros_morfologia.gif`).
 
-![Filtros y morfología](python/gifs/resultado_filtros_morfologia.gif)
+**Demostración de Filtros y Morfología:**
+![Filtros y morfología](https://github.com/adrianyebid/EXAMEN-FINAL/blob/main/examen_final/gifs/resultado_filtros_morfologia.gif?raw=true)
 
 Conclusión breve: el suavizado atenúa detalles y ruido; Canny resalta la estructura; operaciones morfológicas ayudan a limpiar o rellenar la máscara binaria.
 
 
 ## punto 2
+
 Tuve problemas con el live server profe
